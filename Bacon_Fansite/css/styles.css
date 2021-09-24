@@ -2,6 +2,10 @@ h1 {
     color: red;
 }
 
-img {
+.broccoli {
     background-color: red;
+}
+
+.bacon {
+    background-color: green;
 }
