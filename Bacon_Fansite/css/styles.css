@@ -1,11 +1,20 @@
+/******Element Selectors*****/
 h1 {
     color: red;
 }
 
-.broccoli {
+/******Class Selectors*****/
+.bacon {
     background-color: red;
 }
 
-.bacon {
+
+.vegetable {
     background-color: green;
+}
+
+/******ID Selectors*****/
+#heading {
+    color: blue;
+
 }
